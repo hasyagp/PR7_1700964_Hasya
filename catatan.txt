@@ -1,0 +1,3 @@
+left join itu berarti mengikuti tabel yang sebelah kiri atau yang disebut diawal
+right join itu berarti mengikuti tabel yang sebelah kanan atau yang disebut terakhir
+inner join merupakan join biasa
